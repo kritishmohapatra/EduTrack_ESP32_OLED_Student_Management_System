@@ -44,14 +44,14 @@ This project implements a basic student management system on an ESP32 microcontr
 To help with setup and understanding, consider including a **circuit diagram** showing how to connect the ESP32 to the SH1106 OLED display. Additionally, **OLED display images** (screenshots or photos of the actual OLED) demonstrating the student list view, full detail view, and various messages would greatly enhance this README. You can place these images within a dedicated `images/` folder in your repository and link to them here.
 
 
-
-![Circuit Diagram 2](Visuals\circuit_image_2.png)
+![Circuit Diagram 1](Visuals/circuit_image_1.svg)
+![Circuit Diagram 2](Visuals/circuit_image_2.png)
 ![OLED Interface 1](Visuals/Interface_1.jpg)
 ![OLED Interface 2](Visuals/Interface_2.jpg)
 ![OLED Interface 3](Visuals/Interface_3.jpg)
-![Serial Monitor 1](Visuals\Serial_Monitor_1.png)
-![Serial Monitor 2](Visuals\Serial_Monitor_2.png)
-![Serial Monitor 3](Visuals\Serial_Monitor_3.png)
+![Serial Monitor 1](Visuals/Serial_Monitor_1.png)
+![Serial Monitor 2](Visuals/Serial_Monitor_2.png)
+![Serial Monitor 3](Visuals/Serial_Monitor_3.png)
 ---
 
 ## 🚀 Getting Started
